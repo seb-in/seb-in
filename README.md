@@ -1,5 +1,7 @@
 ### Hello 👋
 
+I am a ML enthusiast
+
 - 🔭 I’m currently working on Data Analytics, Machine Learning and DNN projects.
 - 👯 I wish I could collaborate on frontend development.
 - 🤔 You could help me with App deployment and project ideas.

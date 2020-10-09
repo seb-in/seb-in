@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am into web development and ML.
+Web development and ML are my strong pillars
 
 - 🔭 I’m currently working on Data Analytics, Machine Learning and DNN projects.
 - 👯 I wish I could collaborate on frontend development.
